@@ -4,4 +4,4 @@ Primero comprobamos la conección entre el servidor ldap y el cliente con los co
 nmap -Pn IP-LDAP-SERVERXX | grep -P '389|636'
 
 
-![](add2021-angel-marrero/ldap-389ds/IMAGENES/1.1 nmap.png)
+![](add2021-angel-marrero/ldap-389ds/IMAGENES/1.1.png)
